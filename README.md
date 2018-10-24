@@ -1,2 +1,2 @@
 # NodeJS-Boilerplate-Setup
-NodeJS Boilerplate Setup With ES7 Features
+NodeJS & ExpressJS Boilerplate Setup With ES7 Features
